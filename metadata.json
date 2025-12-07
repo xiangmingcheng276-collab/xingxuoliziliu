@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Particle Flow",
+  "description": "An immersive, gesture-controlled particle system powered by MediaPipe for hand tracking and Gemini for intelligent visual feedback.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
